@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Privacy Policy - Windtalkerz</title>
+  <style>
+    body { 
+      font-family: -apple-system, Helvetica, Arial, sans-serif; 
+      margin: 40px; 
+      line-height: 1.6; 
+      max-width: 800px; 
+    }
+    h1 { color: #222; }
+    h2 { margin-top: 2em; }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+  <p>Your privacy is important to us. This policy explains what data is collected, how it is used, and how it is protected when using our app.</p>
+
+  <h2>1. Data Collected</h2>
+  <p>When you use the app, any message you send is transmitted to our server. The following data may be collected and stored:</p>
+  <ul>
+    <li>User messages entered in the app</li>
+    <li>Technical information required for transmission (e.g. time of request, connection logs)</li>
+  </ul>
+
+  <h2>2. Purpose of Processing</h2>
+  <p>The collected messages are processed to provide the app’s functionality. Specifically:</p>
+  <ul>
+    <li>Your message is sent from our server to the ChatGPT API in order to generate a response.</li>
+    <liYour message is stored in our server database to improve service functionality, allow conversation history, and provide support if needed.</li>
+  </ul>
+
+  <h2>3. Data Sharing</h2>
+  <p>Your message content is shared with the ChatGPT service (OpenAI) for processing. OpenAI processes the message to generate a reply, which is then returned to you via our app.</p>
+
+  <h2>4. Data Retention</h2>
+  <p>User messages are stored in our server database. They will be kept only as long as necessary to provide the service and support, unless a longer retention is required by law.</p>
+
+  <h2>5. User Rights</h2>
+  <p>You have the right to request access, correction, or deletion of your data. You can contact us anytime to exercise these rights.</p>
+
+  <h2>6. Contact</h2>
+  <p>Windtalkerz<br>
+  E-mail: <a href="mailto:support@blackpearls.com">support@blackpearls.com</a></p>
+
+  <p>Last updated: September 2025</p>
+</body>
+</html>
